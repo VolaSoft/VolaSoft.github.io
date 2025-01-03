@@ -10,8 +10,10 @@
         <div class="text-center">
 
             <h1>Welcome on the site of VolaSoft!</h1>
-
-            
+            <?php 
+                $myName = "Degisth";
+                echo "I am ".$myName.", your humble host.";
+            ?>
 
         </div>
     
